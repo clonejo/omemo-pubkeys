@@ -1,10 +1,12 @@
 last update: 2018-02-16T22:41Z
 
-# laptop
-bfa4f20b3cdd14fef1acfa60d2988a266af9f86be7fcdabd12766752d3ad3f79
+# current keys
+
+## laptop
+bfa4f20b3cdd14fef1acfa60d2988a266af9f86be7fcdabd12766752d3ad3f79  
 bfa4f20b3 cdd14fef 1acfa60d 2988a266 af9f86be 7fcdabd1 2766752d 3ad3f79
 
-# android phone
-e01d3843ee3ce1e485671088b8ae4b186540806c79732ef2d3fb1432f9ced964
+## android phone
+e01d3843ee3ce1e485671088b8ae4b186540806c79732ef2d3fb1432f9ced964  
 e01d3843e e3ce1e48 5671088b 8ae4b186 540806c7 9732ef2d 3fb1432f 9ced964
 
